@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **asadmhmd1234@gmail.com**
 
-- ⚡ Fun fact **I can sing, I love typing and solving puzzles to spend my day.**
+- ⚡ Fun fact **I can sing and love typing and solving puzzles to spend my day.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

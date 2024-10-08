@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asad Mahmood</h1>
-<h3 align="center">Full Stack Engineer with 2+ years of experience in C#, ASP.NET, Javascript, and zest for solving complex problems. Seeking to use my Frontend skills for better opportunities in React</h3>
+<h3 align="center">Full Stack Engineer with 3+ years of experience in C#, ASP.NET, Javascript, and zest for solving complex problems. Seeking to use my Frontend skills for better opportunities in React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azazel-oss&label=Profile%20views&color=0e75b6&style=flat" alt="azazel-oss" /> </p>
 
